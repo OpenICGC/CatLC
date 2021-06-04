@@ -100,3 +100,13 @@ The use of data is subject to a Creative Common International Recognition 4.0 li
 It contains [Sentinel Copernicus](https://sentinel.esa.int/web/sentinel/home) data modified by the ICGC.
 
 It is also requested that the methodologies and results obtained by the different scientific groups are shared with the ICGC through the following e-mail: [Dr. Oscar Mora](mailto:oscar.mora@icgc.cat)
+
+# Developed by
+
+
+
+<img src="https://betaserver.icgc.cat/logos/ICGC_color_norma.svg" alt="drawing" width="200"/>
+
+[Institut Cartogràfic i Geològic de Catalunya (ICGC)](https://icgc.cat)
+
+[Catalonia Multi-resolution Landcover Dataset (CatLC)](https://www.icgc.cat/en/Downloads/Aerial-and-satellite-images/Contingut/Catalonia-Multi-resolution-Landcover-Dataset-CatLC)
